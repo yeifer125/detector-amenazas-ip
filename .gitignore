@@ -1,0 +1,32 @@
+# Logs temporales
+/tmp/kali-soc*.log
+/tmp/kali-soc*.txt
+/tmp/kali-soc*.history
+
+# Entornos virtuales Python
+app1/venv/
+app2/venv/
+*/venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.tmp
