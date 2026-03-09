@@ -1,5 +1,7 @@
 # 🔥 KALI SOC - Security Operations Center
 
+![Dashboard KALI SOC](app2/screen.png)
+
 ## 📋 Descripción
 
 Proyecto de **Security Operations Center (SOC)** para Kali Linux con múltiples versiones de dashboards de monitoreo y análisis de seguridad.
